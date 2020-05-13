@@ -17,7 +17,7 @@
     "@types/decimal.js": "^7.4.0",
     "@types/long": ">=4",
     "long": "^3.2.0",
-    "nodes2ts": "^1.1.10"
+    "nodes2ts": "^2.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.3",
